@@ -1,3 +1,5 @@
 name: Live for leave, your entire life.
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+theme: jekyll-theme-leap-day
