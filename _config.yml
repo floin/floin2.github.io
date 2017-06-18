@@ -1,13 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Live for leave
+author: floin
+email: v20130402@yeah.net
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Live for leave, this is your entire life.
+  凡事豫则立，不豫则废。言前定则不跲，事前定则不困，行前定则不疚， 道前定则不穷。
+  floin.github.io is a lite personal blog for sharing curio and ideas.
 
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: Inzair_ckg
+github_username:  floin
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
